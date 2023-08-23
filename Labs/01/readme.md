@@ -19,3 +19,4 @@
 ![image](https://github.com/muneebsyed6698/Pf_Fall_23/assets/142868081/f4e5b5e6-5fda-4c97-b79d-e62a461295d5)
 
 ## Question-7:
+![image](https://github.com/muneebsyed6698/Pf_Fall_23/assets/142868081/a502d347-88c3-4705-9eb1-09c19851da92)
