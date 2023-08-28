@@ -10,7 +10,7 @@
 ![f6083fd7-ca9a-4f41-8911-0c35a1bad72a](https://github.com/muneebsyed6698/Pf_Fall_23/assets/142868081/27633453-79b3-4cb1-bf58-86aa467ec019)
 
 ## Problem # 4
-##### In this problem the last output is first rounding off the exceeding distance to next divisible of 5 and then multiplying it by fare and then adding basic fare
+#### In this problem the last output is first rounding off the exceeding distance to next divisible of 5 and then multiplying it by fare and then adding basic fare
 ![fdf6980b-dc3b-4a4c-9613-776be93c0710](https://github.com/muneebsyed6698/Pf_Fall_23/assets/142868081/6812158d-bd6e-4eb3-a15f-5e354e7e2d09)
 ##### In this problem the last output is first rounding off the exceeding distance to next divisible of 5 and then multiplying it by fare and then adding basic fare
 
