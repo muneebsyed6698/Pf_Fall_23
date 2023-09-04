@@ -16,3 +16,18 @@
 
 ## Problem # 5
 ![17e47ca5-9950-4d78-b1c5-93b9fe7d16e8](https://github.com/muneebsyed6698/Pf_Fall_23/assets/142868081/7ff3c971-2da9-46a4-a0be-902b26399e27)
+
+## Problem # 6
+![New Doc 09-04-2023 23 46_1](https://github.com/muneebsyed6698/Pf_Fall_23/assets/142868081/96d6e833-8801-4e6f-a3a1-b0bc1a61bb99)
+
+## Problem # 7
+![20230904_235047 (1)](https://github.com/muneebsyed6698/Pf_Fall_23/assets/142868081/ecae92ea-fb66-4b8d-a7c1-d1bc7f0d9fad)
+
+## Problem # 8
+![New Doc 09-04-2023 23 46_3](https://github.com/muneebsyed6698/Pf_Fall_23/assets/142868081/161e729d-806a-461f-b16f-dd8cec266e87)
+
+## Problem # 9
+![New Doc 09-04-2023 23 46_4](https://github.com/muneebsyed6698/Pf_Fall_23/assets/142868081/24f791de-57d1-48de-879c-e32fb0e22802)
+
+## Problem # 10
+![New Doc 09-04-2023 23 46_5](https://github.com/muneebsyed6698/Pf_Fall_23/assets/142868081/345be7da-462a-4293-b949-dd762610c19e)
